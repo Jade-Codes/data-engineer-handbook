@@ -1,2 +1,5 @@
 .idea/
 .DS_Store
+venv
+matches_bucketed_v3
+__pycache__
